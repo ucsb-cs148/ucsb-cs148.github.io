@@ -85,7 +85,7 @@ offering_menus:
              url: https://github.com/ucsb-cs48-s20
 
   -
-    term: S20
+    term: CS48 S20
     url: https://ucsb-cs48.github.io/s20
     items:
 
@@ -136,7 +136,7 @@ offering_menus:
              url: https://github.com/ucsb-cs48-s20
 
   -
-    term: W20
+    term: CS48 W20
     url: https://ucsb-cs48.github.io/w20
     items:
 
@@ -187,7 +187,7 @@ offering_menus:
              url: https://github.com/ucsb-cs48-w20
 
   -
-    term: W19
+    term: CS48 W19
     url: https://ucsb-cs48.github.io/w19
     items:
 
