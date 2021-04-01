@@ -1,8 +1,8 @@
 ---
-title: UCSB CS48
+title: UCSB CS148
 ---
 
-# CS48&mdash;Computer Science Project
+# CS148&mdash;Computer Science Project
 
 {% include collapse-button.html label="About this course" id="about" %}
 <div class="collapse" id="about">
