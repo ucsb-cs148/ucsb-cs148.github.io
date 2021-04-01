@@ -81,8 +81,8 @@ offering_menus:
              description: "Q&A Forum"
       - title: Github
         dropdown:
-           - title: ucsb-cs48-s20
-             url: https://github.com/ucsb-cs48-s20
+           - title: ucsb-cs148-s21
+             url: https://github.com/ucsb-cs148-s21
 
   -
     term: CS48 S20
