@@ -1,17 +1,17 @@
-# ucsb-cs48.github.io
+# ucsb-cs148.github.io
 
 Jekyll-based website for CS48
 
-Website: <https://ucsb-cs48.github.io>
+Website: <https://ucsb-cs148.github.io>
 
 The theme currently being used can be find in the jekyll-theme value
 in `_config.yml`
 
 The navigation is set by the values in `_data/navigation.yml`
 
-Jekyll status on Travis-CI: [![Build Status](https://travis-ci.org/ucsb-cs48/ucsb-cs48.github.io.svg?branch=master)](https://travis-ci.org/ucsb-cs48/ucsb-cs48.github.io)
+Jekyll status on Travis-CI: [![Build Status](https://travis-ci.org/ucsb-cs148/ucsb-cs148.github.io.svg?branch=master)](https://travis-ci.org/ucsb-cs48/ucsb-cs148.github.io)
 
-* Travis-ci: https://travis-ci.org/ucsb-cs48/ucsb-cs48.github.io
+* Travis-ci: https://travis-ci.org/ucsb-cs148/ucsb-cs148.github.io
 * To add a status image like this in your README.md, see [these instructions](https://docs.travis-ci.com/user/status-images/)
 
 To test locally:
