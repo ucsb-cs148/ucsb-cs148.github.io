@@ -11,10 +11,10 @@ A course taught
 in the [Dept. of Computer Science](http://www.cs.ucsb.edu) at
 [UC Santa Barbara](http://www.ucsb.edu)
 
-The official catalog [course description](http://www.cs.ucsb.edu/education/courses/cmpsc-48) is:
+The official catalog [course description](http://www.cs.ucsb.edu/education/courses/cmpsc-148) is:
 
 > ## Computer Science Project <br>
-> *Number*: CMPSC 48 <br>
+> *Number*: CMPSC 148 <br>
 > *Level*: Undergraduate <br>
 > *Units*: 4 <br>
 >
