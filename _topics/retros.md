@@ -92,7 +92,7 @@ values:
    * While conducting the retro, they may like to set those aside
    * Instead, consider focusing ONLY on helping the other participants voices be heard.
 
-# Guides for retrospective faciltators
+# Guides for retrospective facilitators
 
 I would not suggest that you read ALL of these articles before running your first retro---that could lead to information
 overload.  
