@@ -1,6 +1,6 @@
 # ucsb-cs148.github.io
 
-Jekyll-based website for CS48
+Jekyll-based website for CS148
 
 Website: <https://ucsb-cs148.github.io>
 
