@@ -76,7 +76,7 @@ offering_menus:
            - title: GradeScope
              url: https://gradescope.com
              description: "HW and Lab Grades"
-           - title: Piazza
+           - title: Piazza (not in use since 2023)
              url: https://piazza.com
              description: "Q&A Forum"
       - title: Github
