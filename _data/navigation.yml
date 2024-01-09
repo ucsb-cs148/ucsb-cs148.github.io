@@ -33,7 +33,7 @@ main_dropdown:
        url: /standards/
 
 offering_menus:
--
+  -
     term: W24
     baseurl: /w24
     items:
@@ -237,4 +237,3 @@ offering_menus:
            - title: ucsb-cs148-s21
              url: https://github.com/ucsb-cs148-s21
              
-    
