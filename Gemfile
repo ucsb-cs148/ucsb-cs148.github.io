@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby "2.5.3"
+ruby "3.1.1"
 gem 'github-pages'
 gem "jekyll-remote-theme"
 gem "jekyll-include-cache"
