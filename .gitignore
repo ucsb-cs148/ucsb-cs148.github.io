@@ -21,3 +21,5 @@ vendor
 # For MacOS
 
 .DS_Store
+
+.codegpt
